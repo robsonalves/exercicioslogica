@@ -1,0 +1,11 @@
+/r/exercicioslogica/ex5/net/obj/Debug/netcoreapp2.1/net.csprojAssemblyReference.cache
+/r/exercicioslogica/ex5/net/obj/Debug/netcoreapp2.1/net.csproj.CoreCompileInputs.cache
+/r/exercicioslogica/ex5/net/obj/Debug/netcoreapp2.1/net.AssemblyInfoInputs.cache
+/r/exercicioslogica/ex5/net/obj/Debug/netcoreapp2.1/net.AssemblyInfo.cs
+/r/exercicioslogica/ex5/net/bin/Debug/netcoreapp2.1/net.deps.json
+/r/exercicioslogica/ex5/net/bin/Debug/netcoreapp2.1/net.runtimeconfig.json
+/r/exercicioslogica/ex5/net/bin/Debug/netcoreapp2.1/net.runtimeconfig.dev.json
+/r/exercicioslogica/ex5/net/bin/Debug/netcoreapp2.1/net.dll
+/r/exercicioslogica/ex5/net/bin/Debug/netcoreapp2.1/net.pdb
+/r/exercicioslogica/ex5/net/obj/Debug/netcoreapp2.1/net.dll
+/r/exercicioslogica/ex5/net/obj/Debug/netcoreapp2.1/net.pdb
